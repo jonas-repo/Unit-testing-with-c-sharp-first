@@ -11,3 +11,17 @@
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.xml
+C:\Users\snake\Documents\PersonalGitHubProjects\UnitTestingCsharp\Unit-testing-with-c-sharp-first\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\snake\Documents\PersonalGitHubProjects\UnitTestingCsharp\Unit-testing-with-c-sharp-first\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\snake\Documents\PersonalGitHubProjects\UnitTestingCsharp\Unit-testing-with-c-sharp-first\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\snake\Documents\PersonalGitHubProjects\UnitTestingCsharp\Unit-testing-with-c-sharp-first\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\snake\Documents\PersonalGitHubProjects\UnitTestingCsharp\Unit-testing-with-c-sharp-first\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\snake\Documents\PersonalGitHubProjects\UnitTestingCsharp\Unit-testing-with-c-sharp-first\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\snake\Documents\PersonalGitHubProjects\UnitTestingCsharp\Unit-testing-with-c-sharp-first\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\snake\Documents\PersonalGitHubProjects\UnitTestingCsharp\Unit-testing-with-c-sharp-first\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\snake\Documents\PersonalGitHubProjects\UnitTestingCsharp\Unit-testing-with-c-sharp-first\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\snake\Documents\PersonalGitHubProjects\UnitTestingCsharp\Unit-testing-with-c-sharp-first\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.AssemblyReference.cache
+C:\Users\snake\Documents\PersonalGitHubProjects\UnitTestingCsharp\Unit-testing-with-c-sharp-first\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\snake\Documents\PersonalGitHubProjects\UnitTestingCsharp\Unit-testing-with-c-sharp-first\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+C:\Users\snake\Documents\PersonalGitHubProjects\UnitTestingCsharp\Unit-testing-with-c-sharp-first\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\snake\Documents\PersonalGitHubProjects\UnitTestingCsharp\Unit-testing-with-c-sharp-first\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
